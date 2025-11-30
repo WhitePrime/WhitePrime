@@ -1,5 +1,5 @@
 <p align="center">
-  <b>IT ServiceDesk Specialist</b><br>
+  <b>QA</b><br>
   <b>Research Engineer</b><br>
   <b>Russia, Moscow</b><br>
 </p>
