@@ -4,6 +4,14 @@
   <b>Russia, Moscow</b><br>
 </p>
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=whiteprime&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=whiteprime&theme=buefy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteprime&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+</div>
   
 <!--
 ### Hi there 👋
@@ -26,9 +34,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteprime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-![](https://github-readme-stats.vercel.app/api?username=whiteprime&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=whiteprime&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteprime&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
