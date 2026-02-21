@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteprime&border_color=2e4058)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteprime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteprime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ---
 ![](https://github-profile-trophy.vercel.app/?username=whiteprime&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
+-->
 ---
 ![](https://komarev.com/ghpvc/?username=whiteprime&label=Visitors+Count&color=brightgreen)
